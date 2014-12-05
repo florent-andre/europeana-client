@@ -5,7 +5,7 @@ import eu.europeana.api.client.result.EuropeanaApi2Results;
 
 public class BaseSearchUtils {
 
-	protected void printSearchResults(EuropeanaApi2Results res) {
+	public void printSearchResults(EuropeanaApi2Results res) {
 		System.out.println("Results: " + res.getItemCount() + " / " + res.getTotalResults());
 	    
 	    int count = 0;

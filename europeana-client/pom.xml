@@ -48,6 +48,11 @@
   		<artifactId>log4j</artifactId>
   		<version>1.2.12</version>
   	</dependency>
+  	<dependency>
+    	<groupId>com.github.jsonld-java</groupId>
+    	<artifactId>jsonld-java</artifactId>
+    	<version>0.5.1</version>
+	</dependency>
   </dependencies>
   <build>
     <plugins>
