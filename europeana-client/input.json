@@ -1,0 +1,872 @@
+{
+
+    "apikey": "api2demo",
+    "action": "search.json",
+    "success": true,
+    "requestNumber": 999,
+    "itemsCount": 12,
+    "totalResults": 3683,
+    "items": [
+        {
+            "id": "/2021618/internetserver_Details_kunst_25081",
+            "completeness": 5,
+            "europeanaCollectionName": [
+                "2021618_Ag_NL_DigitaleCollectie_TeylersKunst"
+            ],
+            "index": 0,
+            "edmDatasetName": [
+                "2021618_Ag_NL_DigitaleCollectie_TeylersKunst"
+            ],
+            "provider": [
+                "Digitale Collectie"
+            ],
+            "title": [
+                "Portret Leonardo da Vinci"
+            ],
+            "dcCreator": [
+                "Bonaini, Gustavo (1810-1889)",
+                "Tubino, Gerolamo (XIX)",
+                "Leonardo da Vinci (1452 - 1519)",
+                "graveur",
+                "tekenaar",
+                "schilder",
+                "http://dbpedia.org/resource/Leonardo_da_Vinci"
+            ],
+            "dataProvider": [
+                "Teylers Museum"
+            ],
+            "edmPreview": [
+                "http://europeanastatic.eu/api/image?uri=http%3A%2F%2Fteylers.adlibhosting.com%2Fwwwopacx%2Fwwwopac.ashx%3Fcommand%3Dgetcontent%26server%3Dimages%26value%3DTvB%2520G%25203729.jpg&size=LARGE&type=IMAGE"
+            ],
+            "europeanaCompleteness": 5,
+            "rights": [
+                "http://creativecommons.org/licenses/by-nc/3.0/nl/",
+                ""
+            ],
+            "edmAgentLabelLangAware": {
+                "de": [
+                    "leonardo da vinci"
+                ],
+                "zh": [
+                    "列奥纳多·达·芬奇"
+                ],
+                "it": [
+                    "leonardo da vinci"
+                ],
+                "pt": [
+                    "leonardo da vinci"
+                ],
+                "pl": [
+                    "leonardo da vinci"
+                ],
+                "sv": [
+                    "leonardo da vinci"
+                ],
+                "fr": [
+                    "léonard de vinci"
+                ],
+                "en": [
+                    "leonardo da vinci"
+                ],
+                "ru": [
+                    "леонардо да винчи"
+                ],
+                "es": [
+                    "leonardo da vinci"
+                ],
+                "nl": [
+                    "leonardo da vinci"
+                ]
+            },
+            "edmIsShownAt": [
+                "http://europeana.eu/api/73678821/redirect?shownAt=http%3A%2F%2Fteylers.adlibhosting.com%2Finternetserver%2FDetails%2Fkunst%2F25081%3Fbt%3Deuropeanaapi&provider=Digitale+Collectie&id=http%3A%2F%2Fwww.europeana.eu%2Fresolve%2Frecord%2F2021618%2Finternetserver_Details_kunst_25081&profile=standard"
+            ],
+            "score": 8.345195,
+            "language": [
+                "nl"
+            ],
+            "type": "IMAGE",
+            "link": "http://europeana.eu/api/v2/record/2021618/internetserver_Details_kunst_25081.json?wskey=api2demo",
+            "guid": "http://www.europeana.eu/portal/record/2021618/internetserver_Details_kunst_25081.html?utm_source=api&utm_medium=api&utm_campaign=api2demo",
+            "timestamp_created_epoch": 1395759055085,
+            "timestamp_update_epoch": 1395759055085,
+            "timestamp_created": "2014-03-25T14:50:55.085Z",
+            "timestamp_update": "2014-03-25T14:50:55.085Z"
+        },
+        {
+            "id": "/9200134/BibliographicResource_2000000010807",
+            "completeness": 5,
+            "europeanaCollectionName": [
+                "9200134_Ag_EU_TEL_UniversityofLeuven"
+            ],
+            "index": 0,
+            "edmDatasetName": [
+                "9200134_Ag_EU_TEL_UniversityofLeuven"
+            ],
+            "provider": [
+                "The European Library"
+            ],
+            "title": [
+                "L. de Vinci"
+            ],
+            "dataProvider": [
+                "University of Leuven"
+            ],
+            "edmPreview": [
+                "http://europeanastatic.eu/api/image?uri=http%3A%2F%2Fresolver.lias.be%2Fget_pid%3Fstream%26usagetype%3DTHUMBNAIL%26pid%3D1079603&size=LARGE&type=IMAGE"
+            ],
+            "europeanaCompleteness": 5,
+            "rights": [
+                "http://www.europeana.eu/rights/rr-f/"
+            ],
+            "edmAgentLabelLangAware": {
+                "de": [
+                    "Leonardo da Vinci"
+                ],
+                "zh": [
+                    "列奥纳多·达·芬奇"
+                ],
+                "it": [
+                    "Leonardo da Vinci"
+                ],
+                "pt": [
+                    "Leonardo da Vinci"
+                ],
+                "pl": [
+                    "Leonardo da Vinci"
+                ],
+                "sv": [
+                    "Leonardo da Vinci"
+                ],
+                "fr": [
+                    "Léonard de Vinci"
+                ],
+                "en": [
+                    "Leonardo da Vinci"
+                ],
+                "ru": [
+                    "Леонардо да Винчи"
+                ],
+                "es": [
+                    "Leonardo da Vinci"
+                ],
+                "ja": [
+                    "レオナルド・ダ・ヴィンチ"
+                ],
+                "nl": [
+                    "Leonardo da Vinci"
+                ]
+            },
+            "edmIsShownAt": [
+                "http://europeana.eu/api/73678821/redirect?shownAt=http%3A%2F%2Fresolver.lias.be%2Fget_pid%3Fview%26usagetype%3DVIEW_MAIN%2CVIEW%26pid%3D1079603%26bt%3Deuropeanaapi&provider=The+European+Library&id=http%3A%2F%2Fwww.europeana.eu%2Fresolve%2Frecord%2F9200134%2FBibliographicResource_2000000010807&profile=standard"
+            ],
+            "score": 8.345195,
+            "language": [
+                "mul"
+            ],
+            "type": "IMAGE",
+            "link": "http://europeana.eu/api/v2/record/9200134/BibliographicResource_2000000010807.json?wskey=api2demo",
+            "guid": "http://www.europeana.eu/portal/record/9200134/BibliographicResource_2000000010807.html?utm_source=api&utm_medium=api&utm_campaign=api2demo",
+            "timestamp_created_epoch": 1401195692353,
+            "timestamp_update_epoch": 1401195692353,
+            "timestamp_created": "2014-05-27T13:01:32.353Z",
+            "timestamp_update": "2014-05-27T13:01:32.353Z"
+        },
+        {
+            "id": "/9200134/BibliographicResource_2000000010152",
+            "completeness": 5,
+            "europeanaCollectionName": [
+                "9200134_Ag_EU_TEL_UniversityofLeuven"
+            ],
+            "index": 0,
+            "edmDatasetName": [
+                "9200134_Ag_EU_TEL_UniversityofLeuven"
+            ],
+            "provider": [
+                "The European Library"
+            ],
+            "title": [
+                "L. de Vinci"
+            ],
+            "dataProvider": [
+                "University of Leuven"
+            ],
+            "edmPreview": [
+                "http://europeanastatic.eu/api/image?uri=http%3A%2F%2Fresolver.lias.be%2Fget_pid%3Fstream%26usagetype%3DTHUMBNAIL%26pid%3D1075793&size=LARGE&type=IMAGE"
+            ],
+            "europeanaCompleteness": 5,
+            "rights": [
+                "http://www.europeana.eu/rights/rr-f/"
+            ],
+            "edmAgentLabelLangAware": {
+                "de": [
+                    "Leonardo da Vinci"
+                ],
+                "zh": [
+                    "列奥纳多·达·芬奇"
+                ],
+                "it": [
+                    "Leonardo da Vinci"
+                ],
+                "pt": [
+                    "Leonardo da Vinci"
+                ],
+                "pl": [
+                    "Leonardo da Vinci"
+                ],
+                "sv": [
+                    "Leonardo da Vinci"
+                ],
+                "fr": [
+                    "Léonard de Vinci"
+                ],
+                "en": [
+                    "Leonardo da Vinci"
+                ],
+                "ru": [
+                    "Леонардо да Винчи"
+                ],
+                "es": [
+                    "Leonardo da Vinci"
+                ],
+                "ja": [
+                    "レオナルド・ダ・ヴィンチ"
+                ],
+                "nl": [
+                    "Leonardo da Vinci"
+                ]
+            },
+            "edmIsShownAt": [
+                "http://europeana.eu/api/73678821/redirect?shownAt=http%3A%2F%2Fresolver.lias.be%2Fget_pid%3Fview%26usagetype%3DVIEW_MAIN%2CVIEW%26pid%3D1075793%26bt%3Deuropeanaapi&provider=The+European+Library&id=http%3A%2F%2Fwww.europeana.eu%2Fresolve%2Frecord%2F9200134%2FBibliographicResource_2000000010152&profile=standard"
+            ],
+            "score": 8.345195,
+            "language": [
+                "mul"
+            ],
+            "type": "IMAGE",
+            "link": "http://europeana.eu/api/v2/record/9200134/BibliographicResource_2000000010152.json?wskey=api2demo",
+            "guid": "http://www.europeana.eu/portal/record/9200134/BibliographicResource_2000000010152.html?utm_source=api&utm_medium=api&utm_campaign=api2demo",
+            "timestamp_created_epoch": 1401195618695,
+            "timestamp_update_epoch": 1401195618695,
+            "timestamp_created": "2014-05-27T13:00:18.695Z",
+            "timestamp_update": "2014-05-27T13:00:18.695Z"
+        },
+        {
+            "id": "/02302/urn_imss_image_001351",
+            "completeness": 0,
+            "europeanaCollectionName": [
+                "02302_Ag_MG_itineraries"
+            ],
+            "index": 0,
+            "edmDatasetName": [
+                "02302_Ag_MG_itineraries"
+            ],
+            "provider": [
+                "Museo Galileo - Istituto e Museo di Storia della Scienza"
+            ],
+            "title": [
+                "Clockwork, Museo Ideale Leonardo da Vinci, Vinci",
+                "Ruotismi di orologio, Museo Ideale Leonardo da Vinci, Vinci"
+            ],
+            "dataProvider": [
+                "Museo Galileo - Istituto e Museo di Storia della Scienza"
+            ],
+            "edmPreview": [
+                "http://europeanastatic.eu/api/image?uri=http%3A%2F%2Fvitruvio.imss.fi.it%2Ffoto%2Fisd%2Fcens%2Fcensdm_114_300.jpg&size=LARGE&type=IMAGE"
+            ],
+            "europeanaCompleteness": 0,
+            "rights": [
+                "http://www.europeana.eu/rights/rr-f/",
+                ""
+            ],
+            "edmIsShownAt": [
+                "http://europeana.eu/api/73678821/redirect?shownAt=http%3A%2F%2Fbrunelleschi.imss.fi.it%2Fitineraries%2Fimage%2Fimg1351.html%3Fbt%3Deuropeanaapi&provider=Museo+Galileo+-+Istituto+e+Museo+di+Storia+della+Scienza&id=http%3A%2F%2Fwww.europeana.eu%2Fresolve%2Frecord%2F02302%2Furn_imss_image_001351&profile=standard"
+            ],
+            "score": 8.237534,
+            "language": [
+                "it"
+            ],
+            "type": "IMAGE",
+            "link": "http://europeana.eu/api/v2/record/02302/urn_imss_image_001351.json?wskey=api2demo",
+            "guid": "http://www.europeana.eu/portal/record/02302/urn_imss_image_001351.html?utm_source=api&utm_medium=api&utm_campaign=api2demo",
+            "timestamp_created_epoch": 1396022474499,
+            "timestamp_update_epoch": 1396022474499,
+            "timestamp_created": "2014-03-28T16:01:14.499Z",
+            "timestamp_update": "2014-03-28T16:01:14.499Z"
+        },
+        {
+            "id": "/2021618/internetserver_Details_kunst_25027",
+            "completeness": 5,
+            "europeanaCollectionName": [
+                "2021618_Ag_NL_DigitaleCollectie_TeylersKunst"
+            ],
+            "index": 0,
+            "edmDatasetName": [
+                "2021618_Ag_NL_DigitaleCollectie_TeylersKunst"
+            ],
+            "provider": [
+                "Digitale Collectie"
+            ],
+            "title": [
+                "Mona Lisa"
+            ],
+            "dcCreator": [
+                "Calamatta, Luigi (1801-1869)",
+                "Leonardo da Vinci (1452 - 1519)",
+                "graveur",
+                "inventor",
+                "http://dbpedia.org/resource/Leonardo_da_Vinci"
+            ],
+            "dataProvider": [
+                "Teylers Museum"
+            ],
+            "edmPreview": [
+                "http://europeanastatic.eu/api/image?uri=http%3A%2F%2Fteylers.adlibhosting.com%2Fwwwopacx%2Fwwwopac.ashx%3Fcommand%3Dgetcontent%26server%3Dimages%26value%3DTvB%2520G%25203674.jpg&size=LARGE&type=IMAGE"
+            ],
+            "europeanaCompleteness": 5,
+            "rights": [
+                "http://creativecommons.org/licenses/by-nc/3.0/nl/",
+                ""
+            ],
+            "edmAgentLabelLangAware": {
+                "de": [
+                    "leonardo da vinci"
+                ],
+                "zh": [
+                    "列奥纳多·达·芬奇"
+                ],
+                "it": [
+                    "leonardo da vinci"
+                ],
+                "pt": [
+                    "leonardo da vinci"
+                ],
+                "pl": [
+                    "leonardo da vinci"
+                ],
+                "sv": [
+                    "leonardo da vinci"
+                ],
+                "fr": [
+                    "léonard de vinci"
+                ],
+                "en": [
+                    "leonardo da vinci"
+                ],
+                "ru": [
+                    "леонардо да винчи"
+                ],
+                "es": [
+                    "leonardo da vinci"
+                ],
+                "nl": [
+                    "leonardo da vinci"
+                ]
+            },
+            "edmIsShownAt": [
+                "http://europeana.eu/api/73678821/redirect?shownAt=http%3A%2F%2Fteylers.adlibhosting.com%2Finternetserver%2FDetails%2Fkunst%2F25027%3Fbt%3Deuropeanaapi&provider=Digitale+Collectie&id=http%3A%2F%2Fwww.europeana.eu%2Fresolve%2Frecord%2F2021618%2Finternetserver_Details_kunst_25027&profile=standard"
+            ],
+            "score": 8.151575,
+            "language": [
+                "nl"
+            ],
+            "type": "IMAGE",
+            "link": "http://europeana.eu/api/v2/record/2021618/internetserver_Details_kunst_25027.json?wskey=api2demo",
+            "guid": "http://www.europeana.eu/portal/record/2021618/internetserver_Details_kunst_25027.html?utm_source=api&utm_medium=api&utm_campaign=api2demo",
+            "timestamp_created_epoch": 1395759054479,
+            "timestamp_update_epoch": 1395759054479,
+            "timestamp_created": "2014-03-25T14:50:54.479Z",
+            "timestamp_update": "2014-03-25T14:50:54.479Z"
+        },
+        {
+            "id": "/9200134/BibliographicResource_2000000010189",
+            "completeness": 5,
+            "europeanaCollectionName": [
+                "9200134_Ag_EU_TEL_UniversityofLeuven"
+            ],
+            "index": 0,
+            "edmDatasetName": [
+                "9200134_Ag_EU_TEL_UniversityofLeuven"
+            ],
+            "provider": [
+                "The European Library"
+            ],
+            "title": [
+                "Beatrice d'Este"
+            ],
+            "dataProvider": [
+                "University of Leuven"
+            ],
+            "edmPreview": [
+                "http://europeanastatic.eu/api/image?uri=http%3A%2F%2Fresolver.lias.be%2Fget_pid%3Fstream%26usagetype%3DTHUMBNAIL%26pid%3D1075933&size=LARGE&type=IMAGE"
+            ],
+            "europeanaCompleteness": 5,
+            "rights": [
+                "http://www.europeana.eu/rights/rr-f/"
+            ],
+            "edmAgentLabelLangAware": {
+                "de": [
+                    "Leonardo da Vinci"
+                ],
+                "zh": [
+                    "列奥纳多·达·芬奇"
+                ],
+                "it": [
+                    "Leonardo da Vinci"
+                ],
+                "pt": [
+                    "Leonardo da Vinci"
+                ],
+                "pl": [
+                    "Leonardo da Vinci"
+                ],
+                "sv": [
+                    "Leonardo da Vinci"
+                ],
+                "fr": [
+                    "Léonard de Vinci"
+                ],
+                "en": [
+                    "Leonardo da Vinci"
+                ],
+                "ru": [
+                    "Леонардо да Винчи"
+                ],
+                "es": [
+                    "Leonardo da Vinci"
+                ],
+                "ja": [
+                    "レオナルド・ダ・ヴィンチ"
+                ],
+                "nl": [
+                    "Leonardo da Vinci"
+                ]
+            },
+            "edmIsShownAt": [
+                "http://europeana.eu/api/73678821/redirect?shownAt=http%3A%2F%2Fresolver.lias.be%2Fget_pid%3Fview%26usagetype%3DVIEW_MAIN%2CVIEW%26pid%3D1075933%26bt%3Deuropeanaapi&provider=The+European+Library&id=http%3A%2F%2Fwww.europeana.eu%2Fresolve%2Frecord%2F9200134%2FBibliographicResource_2000000010189&profile=standard"
+            ],
+            "score": 8.151575,
+            "language": [
+                "mul"
+            ],
+            "type": "IMAGE",
+            "link": "http://europeana.eu/api/v2/record/9200134/BibliographicResource_2000000010189.json?wskey=api2demo",
+            "guid": "http://www.europeana.eu/portal/record/9200134/BibliographicResource_2000000010189.html?utm_source=api&utm_medium=api&utm_campaign=api2demo",
+            "timestamp_created_epoch": 1401195619509,
+            "timestamp_update_epoch": 1401195619509,
+            "timestamp_created": "2014-05-27T13:00:19.509Z",
+            "timestamp_update": "2014-05-27T13:00:19.509Z"
+        },
+        {
+            "id": "/9200190/BibliographicResource_3000004780772",
+            "completeness": 0,
+            "europeanaCollectionName": [
+                "9200190_Ag_EU_TEL_a1011_EUlibraries_Madrid"
+            ],
+            "index": 0,
+            "edmDatasetName": [
+                "9200190_Ag_EU_TEL_a1011_EUlibraries_Madrid"
+            ],
+            "provider": [
+                "The European Library"
+            ],
+            "title": [
+                "Modestia et Vanitas"
+            ],
+            "dataProvider": [
+                "Complutense University Library of Madrid"
+            ],
+            "europeanaCompleteness": 0,
+            "rights": [
+                "http://creativecommons.org/licenses/by-nc-nd/3.0/"
+            ],
+            "edmAgentLabelLangAware": {
+                "de": [
+                    "Leonardo da Vinci"
+                ],
+                "zh": [
+                    "列奥纳多·达·芬奇"
+                ],
+                "it": [
+                    "Leonardo da Vinci"
+                ],
+                "pt": [
+                    "Leonardo da Vinci"
+                ],
+                "pl": [
+                    "Leonardo da Vinci"
+                ],
+                "sv": [
+                    "Leonardo da Vinci"
+                ],
+                "fr": [
+                    "Léonard de Vinci"
+                ],
+                "en": [
+                    "Leonardo da Vinci"
+                ],
+                "ru": [
+                    "Леонардо да Винчи"
+                ],
+                "es": [
+                    "Leonardo da Vinci"
+                ],
+                "ja": [
+                    "レオナルド・ダ・ヴィンチ"
+                ],
+                "nl": [
+                    "Leonardo da Vinci"
+                ]
+            },
+            "edmIsShownAt": [
+                "http://europeana.eu/api/73678821/redirect?shownAt=http%3A%2F%2Falfama.sim.ucm.es%2Fdioscorides%2Fconsulta_imagen.asp%3Fcnv_sec%3D751892%26bt%3Deuropeanaapi&provider=The+European+Library&id=http%3A%2F%2Fwww.europeana.eu%2Fresolve%2Frecord%2F9200190%2FBibliographicResource_3000004780772&profile=standard"
+            ],
+            "score": 8.151575,
+            "language": [
+                "es"
+            ],
+            "type": "IMAGE",
+            "year": [
+                "1770"
+            ],
+            "link": "http://europeana.eu/api/v2/record/9200190/BibliographicResource_3000004780772.json?wskey=api2demo",
+            "guid": "http://www.europeana.eu/portal/record/9200190/BibliographicResource_3000004780772.html?utm_source=api&utm_medium=api&utm_campaign=api2demo",
+            "timestamp_created_epoch": 1404140934198,
+            "timestamp_update_epoch": 1404140934198,
+            "timestamp_created": "2014-06-30T15:08:54.198Z",
+            "timestamp_update": "2014-06-30T15:08:54.198Z"
+        },
+        {
+            "id": "/15508/17614",
+            "completeness": 0,
+            "europeanaCollectionName": [
+                "15508_Ag_AT_Kulturpool_albertina"
+            ],
+            "index": 0,
+            "edmDatasetName": [
+                "15508_Ag_AT_Kulturpool_albertina"
+            ],
+            "provider": [
+                "Kulturpool"
+            ],
+            "title": [
+                "Halbfigur eines Apostels"
+            ],
+            "dcCreator": [
+                "Leonardo da Vinci",
+                "http://dbpedia.org/resource/Leonardo_da_Vinci"
+            ],
+            "dataProvider": [
+                "Albertina"
+            ],
+            "edmPreview": [
+                "http://europeanastatic.eu/api/image?uri=http%3A%2F%2Fwebmuseum.at%2Fimages%2F17614.JPG&size=LARGE&type=IMAGE"
+            ],
+            "europeanaCompleteness": 0,
+            "rights": [
+                "http://www.europeana.eu/rights/rr-f/"
+            ],
+            "edmAgentLabelLangAware": {
+                "de": [
+                    "Leonardo da Vinci"
+                ],
+                "zh": [
+                    "列奥纳多·达·芬奇"
+                ],
+                "it": [
+                    "Leonardo da Vinci"
+                ],
+                "pt": [
+                    "Leonardo da Vinci"
+                ],
+                "pl": [
+                    "Leonardo da Vinci"
+                ],
+                "sv": [
+                    "Leonardo da Vinci"
+                ],
+                "fr": [
+                    "Léonard de Vinci"
+                ],
+                "en": [
+                    "Leonardo da Vinci"
+                ],
+                "ru": [
+                    "Леонардо да Винчи"
+                ],
+                "es": [
+                    "Leonardo da Vinci"
+                ],
+                "ja": [
+                    "レオナルド・ダ・ヴィンチ"
+                ],
+                "nl": [
+                    "Leonardo da Vinci"
+                ]
+            },
+            "edmIsShownAt": [
+                "http://europeana.eu/api/73678821/redirect?shownAt=http%3A%2F%2Fsammlungenonline.albertina.at%2F%3Fquery%3Drecord%2Fobjectnumber%3D%5B17614%5D%26showtype%3Drecord%26bt%3Deuropeanaapi&provider=Kulturpool&id=http%3A%2F%2Fwww.europeana.eu%2Fresolve%2Frecord%2F15508%2F17614&profile=standard"
+            ],
+            "score": 8.151575,
+            "language": [
+                "de"
+            ],
+            "type": "IMAGE",
+            "link": "http://europeana.eu/api/v2/record/15508/17614.json?wskey=api2demo",
+            "guid": "http://www.europeana.eu/portal/record/15508/17614.html?utm_source=api&utm_medium=api&utm_campaign=api2demo",
+            "timestamp_created_epoch": 1409215689394,
+            "timestamp_update_epoch": 1409215689394,
+            "timestamp_created": "2014-08-28T08:48:09.394Z",
+            "timestamp_update": "2014-08-28T08:48:09.394Z"
+        },
+        {
+            "id": "/2048011/Athena_Plus_ProvidedCHO_CulturaItaliaMuseiD_Italia_oai_culturaitalia_it_museiditalia_work_79711",
+            "completeness": 0,
+            "europeanaCollectionName": [
+                "2048011_Ag_EU_AthenaPlus_ICCu_CulturItalia"
+            ],
+            "index": 0,
+            "edmDatasetName": [
+                "2048011_Ag_EU_AthenaPlus_ICCu_CulturItalia"
+            ],
+            "provider": [
+                "AthenaPlus"
+            ],
+            "title": [
+                "MODESTIA ET VANITAS"
+            ],
+            "dcCreator": [
+                "Leonardo da Vinci (1452 - 1519)",
+                "http://dbpedia.org/resource/Leonardo_da_Vinci"
+            ],
+            "dataProvider": [
+                "CulturaItaliaMuseiD-Italia"
+            ],
+            "edmPreview": [
+                "http://europeanastatic.eu/api/image?uri=http%3A%2F%2F194.242.241.163%2Ffedora%2Fobjects%2Fwork%3A79711%2Fdatastreams%2FMM231449%2Fcontent&size=LARGE&type=IMAGE"
+            ],
+            "europeanaCompleteness": 0,
+            "rights": [
+                "http://www.europeana.eu/rights/rr-f/"
+            ],
+            "edmIsShownAt": [
+                "http://europeana.eu/api/73678821/redirect?shownAt=http%3A%2F%2Fwww.culturaitalia.it%2Fopencms%2FviewItem.jsp%3Flanguage%3Den%26case%3D%26id%3Doai%253Aculturaitalia.it%253Amuseiditalia-work_79711%26bt%3Deuropeanaapi&provider=AthenaPlus&id=http%3A%2F%2Fwww.europeana.eu%2Fresolve%2Frecord%2F2048011%2FAthena_Plus_ProvidedCHO_CulturaItaliaMuseiD_Italia_oai_culturaitalia_it_museiditalia_work_79711&profile=standard"
+            ],
+            "score": 8.151575,
+            "language": [
+                "it"
+            ],
+            "type": "IMAGE",
+            "link": "http://europeana.eu/api/v2/record/2048011/Athena_Plus_ProvidedCHO_CulturaItaliaMuseiD_Italia_oai_culturaitalia_it_museiditalia_work_79711.json?wskey=api2demo",
+            "guid": "http://www.europeana.eu/portal/record/2048011/Athena_Plus_ProvidedCHO_CulturaItaliaMuseiD_Italia_oai_culturaitalia_it_museiditalia_work_79711.html?utm_source=api&utm_medium=api&utm_campaign=api2demo",
+            "timestamp_created_epoch": 1393608642691,
+            "timestamp_update_epoch": 1415218204473,
+            "timestamp_created": "2014-02-28T17:30:42.691Z",
+            "timestamp_update": "2014-11-05T20:10:04.473Z"
+        },
+        {
+            "id": "/2048011/Athena_Plus_ProvidedCHO_CulturaItaliaMuseiD_Italia_oai_culturaitalia_it_museiditalia_work_79546",
+            "completeness": 0,
+            "europeanaCollectionName": [
+                "2048011_Ag_EU_AthenaPlus_ICCu_CulturItalia"
+            ],
+            "index": 0,
+            "edmDatasetName": [
+                "2048011_Ag_EU_AthenaPlus_ICCu_CulturItalia"
+            ],
+            "provider": [
+                "AthenaPlus"
+            ],
+            "title": [
+                "STUDIO DI PANNEGGIO"
+            ],
+            "dcCreator": [
+                "Leonardo da Vinci (1452 - 1519)",
+                "http://dbpedia.org/resource/Leonardo_da_Vinci"
+            ],
+            "dataProvider": [
+                "CulturaItaliaMuseiD-Italia"
+            ],
+            "edmPreview": [
+                "http://europeanastatic.eu/api/image?uri=http%3A%2F%2F194.242.241.163%2Ffedora%2Fobjects%2Fwork%3A79546%2Fdatastreams%2FMM225036%2Fcontent&size=LARGE&type=IMAGE"
+            ],
+            "europeanaCompleteness": 0,
+            "rights": [
+                "http://www.europeana.eu/rights/rr-f/"
+            ],
+            "edmIsShownAt": [
+                "http://europeana.eu/api/73678821/redirect?shownAt=http%3A%2F%2Fwww.culturaitalia.it%2Fopencms%2FviewItem.jsp%3Flanguage%3Den%26case%3D%26id%3Doai%253Aculturaitalia.it%253Amuseiditalia-work_79546%26bt%3Deuropeanaapi&provider=AthenaPlus&id=http%3A%2F%2Fwww.europeana.eu%2Fresolve%2Frecord%2F2048011%2FAthena_Plus_ProvidedCHO_CulturaItaliaMuseiD_Italia_oai_culturaitalia_it_museiditalia_work_79546&profile=standard"
+            ],
+            "score": 8.151575,
+            "language": [
+                "it"
+            ],
+            "type": "IMAGE",
+            "link": "http://europeana.eu/api/v2/record/2048011/Athena_Plus_ProvidedCHO_CulturaItaliaMuseiD_Italia_oai_culturaitalia_it_museiditalia_work_79546.json?wskey=api2demo",
+            "guid": "http://www.europeana.eu/portal/record/2048011/Athena_Plus_ProvidedCHO_CulturaItaliaMuseiD_Italia_oai_culturaitalia_it_museiditalia_work_79546.html?utm_source=api&utm_medium=api&utm_campaign=api2demo",
+            "timestamp_created_epoch": 1393608641479,
+            "timestamp_update_epoch": 1415218204030,
+            "timestamp_created": "2014-02-28T17:30:41.479Z",
+            "timestamp_update": "2014-11-05T20:10:04.030Z"
+        },
+        {
+            "id": "/9200105/BibliographicResource_3000006102653",
+            "completeness": 5,
+            "europeanaCollectionName": [
+                "9200105_Ag_EU_TEL_a1000_EuropeanaLibraries"
+            ],
+            "index": 0,
+            "edmDatasetName": [
+                "9200105_Ag_EU_TEL_a1000_EuropeanaLibraries"
+            ],
+            "provider": [
+                "The European Library"
+            ],
+            "title": [
+                "Leonardo da Vinci. Stipple engraving."
+            ],
+            "dataProvider": [
+                "The Wellcome Library"
+            ],
+            "edmPreview": [
+                "http://europeanastatic.eu/api/image?uri=http%3A%2F%2Fwellcomeimages.org%2Fixbin%2Fimageserv%3FMIDMIRO%3DV0006059&size=LARGE&type=IMAGE"
+            ],
+            "europeanaCompleteness": 5,
+            "rights": [
+                "http://creativecommons.org/licenses/by/4.0/"
+            ],
+            "edmAgentLabelLangAware": {
+                "de": [
+                    "Leonardo da Vinci"
+                ],
+                "zh": [
+                    "列奥纳多·达·芬奇"
+                ],
+                "it": [
+                    "Leonardo da Vinci"
+                ],
+                "pt": [
+                    "Leonardo da Vinci"
+                ],
+                "pl": [
+                    "Leonardo da Vinci"
+                ],
+                "sv": [
+                    "Leonardo da Vinci"
+                ],
+                "fr": [
+                    "Léonard de Vinci"
+                ],
+                "en": [
+                    "Leonardo da Vinci"
+                ],
+                "ru": [
+                    "Леонардо да Винчи"
+                ],
+                "es": [
+                    "Leonardo da Vinci"
+                ],
+                "ja": [
+                    "レオナルド・ダ・ヴィンチ"
+                ],
+                "nl": [
+                    "Leonardo da Vinci"
+                ]
+            },
+            "edmIsShownAt": [
+                "http://europeana.eu/api/73678821/redirect?shownAt=http%3A%2F%2Fwellcomeimages.org%2Findexplus%2Fimage%2FV0006059.html%3Fbt%3Deuropeanaapi&provider=The+European+Library&id=http%3A%2F%2Fwww.europeana.eu%2Fresolve%2Frecord%2F9200105%2FBibliographicResource_3000006102653&profile=standard"
+            ],
+            "score": 8.148614,
+            "language": [
+                "en"
+            ],
+            "type": "IMAGE",
+            "link": "http://europeana.eu/api/v2/record/9200105/BibliographicResource_3000006102653.json?wskey=api2demo",
+            "guid": "http://www.europeana.eu/portal/record/9200105/BibliographicResource_3000006102653.html?utm_source=api&utm_medium=api&utm_campaign=api2demo",
+            "timestamp_created_epoch": 1405003374744,
+            "timestamp_update_epoch": 1405003374744,
+            "timestamp_created": "2014-07-10T14:42:54.744Z",
+            "timestamp_update": "2014-07-10T14:42:54.744Z"
+        },
+        {
+            "id": "/9200105/BibliographicResource_3000006135543",
+            "completeness": 5,
+            "europeanaCollectionName": [
+                "9200105_Ag_EU_TEL_a1000_EuropeanaLibraries"
+            ],
+            "index": 0,
+            "edmDatasetName": [
+                "9200105_Ag_EU_TEL_a1000_EuropeanaLibraries"
+            ],
+            "provider": [
+                "The European Library"
+            ],
+            "title": [
+                "Leonardo da Vinci. Stipple engraving by J. Posselwhite."
+            ],
+            "dataProvider": [
+                "The Wellcome Library"
+            ],
+            "edmPreview": [
+                "http://europeanastatic.eu/api/image?uri=http%3A%2F%2Fwellcomeimages.org%2Fixbin%2Fimageserv%3FMIDMIRO%3DV0006062EL&size=LARGE&type=IMAGE"
+            ],
+            "europeanaCompleteness": 5,
+            "rights": [
+                "http://creativecommons.org/licenses/by/4.0/"
+            ],
+            "edmAgentLabelLangAware": {
+                "de": [
+                    "Leonardo da Vinci"
+                ],
+                "zh": [
+                    "列奥纳多·达·芬奇"
+                ],
+                "it": [
+                    "Leonardo da Vinci"
+                ],
+                "pt": [
+                    "Leonardo da Vinci"
+                ],
+                "pl": [
+                    "Leonardo da Vinci"
+                ],
+                "sv": [
+                    "Leonardo da Vinci"
+                ],
+                "fr": [
+                    "Léonard de Vinci"
+                ],
+                "en": [
+                    "Leonardo da Vinci"
+                ],
+                "ru": [
+                    "Леонардо да Винчи"
+                ],
+                "es": [
+                    "Leonardo da Vinci"
+                ],
+                "ja": [
+                    "レオナルド・ダ・ヴィンチ"
+                ],
+                "nl": [
+                    "Leonardo da Vinci"
+                ]
+            },
+            "edmIsShownAt": [
+                "http://europeana.eu/api/73678821/redirect?shownAt=http%3A%2F%2Fwellcomeimages.org%2Findexplus%2Fimage%2FV0006062EL.html%3Fbt%3Deuropeanaapi&provider=The+European+Library&id=http%3A%2F%2Fwww.europeana.eu%2Fresolve%2Frecord%2F9200105%2FBibliographicResource_3000006135543&profile=standard"
+            ],
+            "score": 8.104585,
+            "language": [
+                "en"
+            ],
+            "type": "IMAGE",
+            "link": "http://europeana.eu/api/v2/record/9200105/BibliographicResource_3000006135543.json?wskey=api2demo",
+            "guid": "http://www.europeana.eu/portal/record/9200105/BibliographicResource_3000006135543.html?utm_source=api&utm_medium=api&utm_campaign=api2demo",
+            "timestamp_created_epoch": 1405004078299,
+            "timestamp_update_epoch": 1405004078299,
+            "timestamp_created": "2014-07-10T14:54:38.299Z",
+            "timestamp_update": "2014-07-10T14:54:38.299Z"
+        }
+    ]
+
+}

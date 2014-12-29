@@ -1,3 +1,4 @@
+
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
@@ -9,7 +10,6 @@
   <name>Europeana Client</name>
   <description>Implementation of Europeana Client by taking over the Europeana4J source code</description>
   
-
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
@@ -84,9 +84,12 @@
 	<extensions>true</extensions>
 	<configuration>
 	  <instructions>
+	  
 	    <Import-Package>
 	      *
 	    </Import-Package>
+	     <Embed-Dependency>*;scope=compile|runtime;inline=false;artifactId=gson|commons-httpclient
+            </Embed-Dependency>
           </instructions>
 	</configuration>
       </plugin>
